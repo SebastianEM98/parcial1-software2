@@ -1,0 +1,27 @@
+{
+  "name": "parcial1_sw2",
+  "version": "1.0.0",
+  "description": "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianEcheverryMejia&theme=tokyonight&show_icons=true)\r ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianEcheverryMejia&theme=tokyonight&hide=contribs,prs)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianEcheverryMejia/parcial1-software2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianEcheverryMejia/parcial1-software2/issues"
+  },
+  "homepage": "https://github.com/SebastianEcheverryMejia/parcial1-software2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.1",
+    "nodemon": "^2.0.20"
+  }
+}
